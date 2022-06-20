@@ -1,1 +1,1 @@
-## Admin-O-Matic For TechNisi Website
+## Admin TechNisi For TechNisi Website

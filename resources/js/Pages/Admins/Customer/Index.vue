@@ -102,15 +102,7 @@
             </button>
           </div>
           <div class="modal-body overflow-hidden">
-            <div class="d-flex flex-column h4">
-              <span
-                >Preview: <span class="text-capitalize">{{ form.name }}</span>
-              </span>
-              <span class="mt-2"
-                >Preview E-mail:
-                <span class="text-capitalize">{{ form.email }}</span>
-              </span>
-            </div>
+            <!-- Biarkan enter -->
             <div class="card card-primary">
               <form @submit.prevent="checkMode">
                 <div class="card-body">

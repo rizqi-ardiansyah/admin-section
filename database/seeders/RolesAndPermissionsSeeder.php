@@ -101,14 +101,14 @@ class RolesAndPermissionsSeeder extends Seeder
             $miscPermission,
         ]);
 
-        $superAdmin = User::create([
-            'name' => 'super admin',
-            'is_admin' => 1,
-            'email' => 'super@admin.com',
-            'email_verified_at' => now(),
-            'password' => Hash::make('password'),
-            'remember_token' => Str::random(10),
-        ]);
+        // $superAdmin = User::create([
+        //     'name' => 'super admin',
+        //     'is_admin' => 1,
+        //     'email' => 'super@admin.com',
+        //     'email_verified_at' => now(),
+        //     'password' => Hash::make('password'),
+        //     'remember_token' => Str::random(10),
+        // ]);
 
         $admin = User::create([
             'name' => 'admin',
@@ -119,23 +119,23 @@ class RolesAndPermissionsSeeder extends Seeder
             'remember_token' => Str::random(10),
         ]);
 
-        $moderator = User::create([
-            'name' => 'moderator',
-            'is_admin' => 1,
-            'email' => 'moderator@admin.com',
-            'email_verified_at' => now(),
-            'password' => Hash::make('password'),
-            'remember_token' => Str::random(10),
-        ]);
+        // $moderator = User::create([
+        //     'name' => 'moderator',
+        //     'is_admin' => 1,
+        //     'email' => 'moderator@admin.com',
+        //     'email_verified_at' => now(),
+        //     'password' => Hash::make('password'),
+        //     'remember_token' => Str::random(10),
+        // ]);
 
-        $developer = User::create([
-            'name' => 'developer',
-            'is_admin' => 1,
-            'email' => 'developer@admin.com',
-            'email_verified_at' => now(),
-            'password' => Hash::make('password'),
-            'remember_token' => Str::random(10),
-        ]);
+        // $developer = User::create([
+        //     'name' => 'developer',
+        //     'is_admin' => 1,
+        //     'email' => 'developer@admin.com',
+        //     'email_verified_at' => now(),
+        //     'password' => Hash::make('password'),
+        //     'remember_token' => Str::random(10),
+        // ]);
 
         $user = User::create([
             'name' => 'test',
