@@ -76,4 +76,9 @@
         5. Jika membuat akun baru di admin, pastikan setelah membuat akun, lakukan edit dengan memilih role nya apakah jadi user atau admin. Apabila role kosong, maka saat login akan dilarang masuk jika tidak punya status role
         6. Untuk ganti password bisa dilakukan dengan menekan halaman site, kemudian diarahkan pada menu dashboard jetstream yang berwarna putih, maka klik profile di pojok kanan dan langsung bisa ganti password di kolom tersebut
     ```
+ 
+ 5. Hasil screencshot
+ 
+ ## Halaman Home
+
     
