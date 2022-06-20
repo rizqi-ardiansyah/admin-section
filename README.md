@@ -72,8 +72,8 @@
         1. Harus melakukan refresh setelah melakukan CRUD agar dapat menggunakan CRUD lagi
         2. Terkadang ada freeze atau stuck, harus di refresh
         3. Dalam bagian edit, di bagian dropdown harus diisi lagi, karena sementara belum bisa otomatis terisi dengan data dari database
-        4. Terdapat 2 role di admin yakni admin dan user. Admin dapat melakukan CRUD di semua fitur. Jika user tidak bisa melakukan CRUD di fitur admin, role, dan                permission
-        5. Jika membuat akun baru di admin, pastikan setelah membuat akun, lakukan edit dengan memilih role nya apakah jadi user atau admin. Apabila role kosong, maka            saat login akan dilarang masuk jika tidak punya status role
-        6. Untuk ganti password bisa dilakukan dengan menekan halaman site, kemudian diarahkan pada menu dashboard jetstream yang berwarna putih, maka klik profile di            pojok kanan dan langsung bisa ganti password di kolom tersebut.
+        4. Terdapat 2 role di admin yakni admin dan user. Admin dapat melakukan CRUD di semua fitur. Jika user tidak bisa melakukan CRUD di fitur admin, role, dan permission
+        5. Jika membuat akun baru di admin, pastikan setelah membuat akun, lakukan edit dengan memilih role nya apakah jadi user atau admin. Apabila role kosong, maka saat login akan dilarang masuk jika tidak punya status role
+        6. Untuk ganti password bisa dilakukan dengan menekan halaman site, kemudian diarahkan pada menu dashboard jetstream yang berwarna putih, maka klik profile di pojok kanan dan langsung bisa ganti password di kolom tersebut
     ```
     
