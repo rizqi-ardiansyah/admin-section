@@ -21,8 +21,8 @@ if (mix.inProduction()) {
     mix.version();
 }
 
-mix.webpackConfig({
-    stats: {
-        children: true,
-    },
-});
+// mix.webpackConfig({
+//     stats: {
+//         children: true,
+//     },
+// });
