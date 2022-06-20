@@ -41,7 +41,7 @@
         Ketik npm update vue-loader
      ```
      ```shell
-        Tekan split terminal di pojok terminal VS Code dan ketik php artisan serve di bagian kiri dan npm run watch di bagian kanan. Apabila ingin menjalankan 2               laravel secara bersamaan, yakni menjalankan laravel user dan admin, maka pada bagian admin ini di terminal bagian kiri bisa di ketik php artisan serve --port =         8081. Sehingga admin akan berjalan di localhost:8081, sedangkan user akan tetap berjalan di localhost:8000
+        Tekan split terminal di pojok terminal VS Code dan ketik php artisan serve di bagian kiri dan npm run watch di bagian kanan. Apabila ingin menjalankan 2       laravel secara bersamaan, yakni menjalankan laravel user dan admin, maka pada bagian admin ini di terminal bagian kiri bisa di ketik php artisan serve --port =         8081. Sehingga admin akan berjalan di localhost:8081, sedangkan user akan tetap berjalan di localhost:8000
      ```
      ```shell
         Login dengan username = "admin" dan password = "password"
