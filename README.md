@@ -79,7 +79,7 @@
  
  5. Hasil screencshot
 
-![rsz_1dashboard](https://user-images.githubusercontent.com/86498942/174567761-080b4cdf-f3c0-420e-9020-313251859f94.jpg)
+    ![rsz_1dashboard](https://user-images.githubusercontent.com/86498942/174567761-080b4cdf-f3c0-420e-9020-313251859f94.jpg)
 
 
 
