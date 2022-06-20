@@ -77,7 +77,7 @@
         6. Untuk ganti password bisa dilakukan dengan menekan halaman site, kemudian diarahkan pada menu dashboard jetstream yang berwarna putih, maka klik profile di pojok kanan dan langsung bisa ganti password di kolom tersebut
     ```
  
- 5. Hasil screencshot
+ 5. Hasil screenshot
 
     ![rsz_1dashboard](https://user-images.githubusercontent.com/86498942/174567761-080b4cdf-f3c0-420e-9020-313251859f94.jpg)
     ![rsz_listdata](https://user-images.githubusercontent.com/86498942/174572192-e278e606-cdde-454f-90bf-6233c84a9d6e.jpg)
