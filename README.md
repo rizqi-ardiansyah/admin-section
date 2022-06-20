@@ -25,7 +25,7 @@
      ```shell
         Buka database.php dan atur mysql2 dengan nama database kedua seperti yang diatur sebelumnya
      ```
-    ```shell
+     ```shell
         php artisan migrate
      ```
      ```shell
@@ -41,12 +41,12 @@
         Ketik npm update vue-loader
      ```
      ```shell
-        Tekan split terminal di pojok terminal VS Code dan ketik php artisan serve di bagian kiri dan npm run watch di bagian kanan. Apabila ingin menjalankan 2 laravel secara bersamaan, yakni pada user dan admin, maka pada admin ini di terminal bagian kiri bisa di ketik php artisan serve --port = 8081
+        Tekan split terminal di pojok terminal VS Code dan ketik php artisan serve di bagian kiri dan npm run watch di bagian kanan. Apabila ingin menjalankan 2               laravel secara bersamaan, yakni menjalankan laravel user dan admin, maka pada bagian admin ini di terminal bagian kiri bisa di ketik php artisan serve --port =         8081. Sehingga admin akan berjalan di localhost:8081, sedangkan user akan tetap berjalan di localhost:8000
      ```
-      ```shell
+     ```shell
         Login dengan username = "admin" dan password = "password"
      ```
-      ```shell
+     ```shell
         Agar bisa masuk menu dashboard link nya http://localhost:8081/admin/dashboard
      ```
 3. Install beberapa package berikut
@@ -71,9 +71,9 @@
     ```shell
         1. Harus melakukan refresh setelah melakukan CRUD agar dapat menggunakan CRUD lagi
         2. Terkadang ada freeze atau stuck, harus di refresh
-        3. Dalam bagian edit, dibagian dropdown harus diisi lagi, karena sementara belum bisa otomatis terisi dengan data dari database
-        4. Terdapat 2 role di admin yakni admin dan user. Admin dapat melakukan CRUD di semua fitur. Jika user tidak bisa melakukan CRUD di fitur admin, role, dan permission
-        5. Jika membuat akun baru di admin, pastikan setelah membuat akun, lakukan edit dengan memilih role nya apakah jadi user atau admin. Apabila role kosong, maka saat login akan dilarang masuk jika tidak punya status role
-        6. Untuk ganti password bisa dilakukan dengan menekan halaman site, kemudian diarahkan pada menu dashboard jetstream yang berwarna putih, maka klik profile di pojok kanan dan langsung bisa ganti password di kolom tersebut.
+        3. Dalam bagian edit, di bagian dropdown harus diisi lagi, karena sementara belum bisa otomatis terisi dengan data dari database
+        4. Terdapat 2 role di admin yakni admin dan user. Admin dapat melakukan CRUD di semua fitur. Jika user tidak bisa melakukan CRUD di fitur admin, role, dan                permission
+        5. Jika membuat akun baru di admin, pastikan setelah membuat akun, lakukan edit dengan memilih role nya apakah jadi user atau admin. Apabila role kosong, maka            saat login akan dilarang masuk jika tidak punya status role
+        6. Untuk ganti password bisa dilakukan dengan menekan halaman site, kemudian diarahkan pada menu dashboard jetstream yang berwarna putih, maka klik profile di            pojok kanan dan langsung bisa ganti password di kolom tersebut.
     ```
     
