@@ -79,7 +79,8 @@
  
  5. Hasil screencshot
 
-![image](image/createData.jpg)
+![dashboard](https://user-images.githubusercontent.com/86498942/174567274-105aa2a8-1491-4f77-8f0f-327bb41729d2.JPG)
+
 
 
     
