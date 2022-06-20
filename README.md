@@ -79,8 +79,7 @@
  
  5. Hasil screencshot
 
-![image](dashboard.jpg)
-
+![alt text](http://url/to/dashboard.jpg)
 ![image](listData.jpg)
 
 ![image](createData.jpg)
