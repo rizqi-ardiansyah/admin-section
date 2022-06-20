@@ -81,6 +81,9 @@
 
     ![rsz_1dashboard](https://user-images.githubusercontent.com/86498942/174567761-080b4cdf-f3c0-420e-9020-313251859f94.jpg)
     ![rsz_listdata](https://user-images.githubusercontent.com/86498942/174572192-e278e606-cdde-454f-90bf-6233c84a9d6e.jpg)
+    ![rsz_createdata](https://user-images.githubusercontent.com/86498942/174572861-5995f876-388f-4d2f-a253-b26ec88813ae.jpg)
+    ![rsz_editdata](https://user-images.githubusercontent.com/86498942/174572846-dc73dcad-8b09-46d1-8ac1-11fcbd55e395.jpg)
+    ![rsz_1deletedata](https://user-images.githubusercontent.com/86498942/174572855-01f239a8-0b8d-48bf-af22-4c847e643455.jpg)
 
 
 
