@@ -78,7 +78,16 @@
     ```
  
  5. Hasil screencshot
- 
- ## Halaman Home
+
+![image](dashboard.png)
+
+![image](listData.png)
+
+![image](createData.png)
+
+![image](editData.png)
+
+![image](deleteData.png)
+
 
     
