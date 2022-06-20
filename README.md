@@ -79,15 +79,15 @@
  
  5. Hasil screencshot
 
-![image](dashboard.png)
+![image](dashboard.jpg)
 
-![image](listData.png)
+![image](listData.jpg)
 
-![image](createData.png)
+![image](createData.jpg)
 
-![image](editData.png)
+![image](editData.jpg)
 
-![image](deleteData.png)
+![image](deleteData.jpg)
 
 
     
